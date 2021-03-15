@@ -1,0 +1,14 @@
+.logo {
+  height: 130px;
+  background-color: #f6f6f6;
+  margin-left: 50px;
+}
+
+.navbar {
+    margin-left: 350px;
+}
+
+.navbar :link {
+    font-family: 'Roboto';
+    margin-left: 70px;
+}
