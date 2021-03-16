@@ -1,0 +1,24 @@
+.mainPage {
+    margin-top: 95px;
+}
+
+.mainPage img {
+    margin-left: 900px;
+    position: absolute;
+    width: 45%;
+}
+
+.mainPage h1 {
+    color: #0B132A;
+    margin-top: 10px;
+    font-family: 'Rubik';
+    font-size: 60px;
+    margin-left: 130px;
+    font-weight: bold;
+}
+
+.mainPage p {
+    font-family: 'Roboto';
+    margin-left: 130px;
+    font-size: 18px;
+}

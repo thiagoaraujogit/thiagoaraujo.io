@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Header from '../components/Header'
+import Main from '../components/Main'
 import Bootstrap from 'react-bootstrap'
 
 export default function Home() {
@@ -16,10 +17,12 @@ export default function Home() {
         />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet" />
       </Head>
 
       <main>
         <Header />
+        <Main />
       </main>
     </div>
   )
