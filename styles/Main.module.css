@@ -4,6 +4,7 @@
 
 .mainPage img {
     margin-left: 900px;
+    margin-top: -80px;
     position: absolute;
     width: 45%;
 }
@@ -21,4 +22,22 @@
     font-family: 'Roboto';
     margin-left: 130px;
     font-size: 18px;
+}
+
+.customBtn {
+  background-color: #6C63FF;
+  color: #ffffff;
+  border-radius: 10px;
+  text-align: center;
+  height: 60px;
+  width: 250px;
+  font-family: 'Rubik';
+  margin-left: 130px;
+  margin-top: 50px;
+  border-style: hidden;
+}
+
+.customBtn:hover {
+  background-color: #5a53ec;
+  box-shadow: 0 0 11px #5a53ec;
 }
