@@ -10,7 +10,7 @@
 }
 
 .mainPage h1 {
-    color: #0B132A;
+    color: #0b132a;
     margin-top: 10px;
     font-family: 'Rubik';
     font-size: 60px;
@@ -25,19 +25,19 @@
 }
 
 .customBtn {
-  background-color: #6C63FF;
-  color: #ffffff;
-  border-radius: 10px;
-  text-align: center;
-  height: 60px;
-  width: 250px;
-  font-family: 'Rubik';
-  margin-left: 130px;
-  margin-top: 50px;
-  border-style: hidden;
+    background-color: #6c63ff;
+    color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    height: 60px;
+    width: 250px;
+    font-family: 'Rubik';
+    margin-left: 130px;
+    margin-top: 50px;
+    border-style: hidden;
 }
 
 .customBtn:hover {
-  background-color: #5a53ec;
-  box-shadow: 0 0 11px #5a53ec;
+    background-color: #5a53ec;
+    box-shadow: 0 0 11px #5a53ec;
 }
